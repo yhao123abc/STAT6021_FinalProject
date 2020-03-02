@@ -1,3 +1,9 @@
+### STAT 6021 Final Project
+### Predicting Lego Prices and  Themes
+#Rohan Bapat,  rb2te
+#Jennifer Cruser,   jc4pg
+#Yi Hao,  yh8a
+#Abhijith Mandya,  am6ku
 
 install.packages("RCurl")
 
